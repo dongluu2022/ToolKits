@@ -1,0 +1,9 @@
+D:\ToolGame\ToolKits\ToolKits\bin\Debug\ToolKits.exe.config
+D:\ToolGame\ToolKits\ToolKits\bin\Debug\ToolKits.exe
+D:\ToolGame\ToolKits\ToolKits\bin\Debug\ToolKits.pdb
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.csprojResolveAssemblyReference.cache
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.Main.resources
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.Properties.Resources.resources
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.csproj.GenerateResource.Cache
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.exe
+D:\ToolGame\ToolKits\ToolKits\obj\Debug\ToolKits.pdb

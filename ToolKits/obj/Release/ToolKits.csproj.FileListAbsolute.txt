@@ -1,0 +1,8 @@
+D:\ToolGame\ToolKits\ToolKits\bin\Release\ToolKits.exe.config
+D:\ToolGame\ToolKits\ToolKits\bin\Release\ToolKits.exe
+D:\ToolGame\ToolKits\ToolKits\bin\Release\ToolKits.pdb
+D:\ToolGame\ToolKits\ToolKits\obj\Release\ToolKits.Main.resources
+D:\ToolGame\ToolKits\ToolKits\obj\Release\ToolKits.Properties.Resources.resources
+D:\ToolGame\ToolKits\ToolKits\obj\Release\ToolKits.csproj.GenerateResource.Cache
+D:\ToolGame\ToolKits\ToolKits\obj\Release\ToolKits.exe
+D:\ToolGame\ToolKits\ToolKits\obj\Release\ToolKits.pdb
